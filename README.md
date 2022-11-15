@@ -1,1 +1,1 @@
-# portfolio-webstie
+# portfolio-website as given by the ineuron team
